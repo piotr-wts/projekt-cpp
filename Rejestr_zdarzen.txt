@@ -1,0 +1,64 @@
+Procent spalonych drzew:2.66667%
+Spalonych drzew:2
+Czas:9.75377 s
+Iloœæ kamieni:25
+
+Procent spalonych drzew:15.7895%
+Spalonych drzew:12
+Czas:10.8458 s
+Iloœæ kamieni:24
+
+Procent spalonych drzew:46.0526%
+Spalonych drzew:35
+Czas:11.9191 s
+Iloœæ kamieni:24
+
+Procent spalonych drzew:72.3684%
+Spalonych drzew:55
+Czas:12.9786 s
+Iloœæ kamieni:24
+
+Procent spalonych drzew:94.7368%
+Spalonych drzew:72
+Czas:14.0401 s
+Iloœæ kamieni:24
+
+Procent spalonych drzew:100%
+Spalonych drzew:76
+Czas:15.0969 s
+Iloœæ kamieni:24
+
+Procent spalonych drzew:100%
+Spalonych drzew:69
+Czas:18.4349 s
+Iloœæ kamieni:31
+
+Procent spalonych drzew:100%
+Spalonych drzew:65
+Czas:19.4943 s
+Iloœæ kamieni:35
+
+Procent spalonych drzew:100%
+Spalonych drzew:61
+Czas:20.5643 s
+Iloœæ kamieni:39
+
+Procent spalonych drzew:100%
+Spalonych drzew:44
+Czas:24.0579 s
+Iloœæ kamieni:56
+
+Procent spalonych drzew:100%
+Spalonych drzew:40
+Czas:25.1084 s
+Iloœæ kamieni:60
+
+
+
+----------RESTARTOWANIE SYMULACJI----------
+
+Procent spalonych drzew:0%
+Spalonych drzew:0
+Czas:0.182768 s
+Iloœæ kamieni:25
+
